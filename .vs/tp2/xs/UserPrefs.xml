@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F246E155-5039-4ADB-A924-F8E54CCC04F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tp2/Model/ArbolBinario.cs">
+    <Files>
+      <File FileName="tp2/Program.cs" Line="59" Column="93" />
+      <File FileName="tp2/Model/ArbolBinario.cs" Line="125" Column="74" />
+      <File FileName="tp2/Model/Nodo.cs" Line="8" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tp2" expanded="True">
+            <Node name="tp2" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="ArbolBinario.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.tp2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/matiasmartinez/Projects/tp2/tp2/bin/Debug/tp2.exe
+/Users/matiasmartinez/Projects/tp2/tp2/bin/Debug/tp2.pdb
+/Users/matiasmartinez/Projects/tp2/tp2/obj/Debug/tp2.csprojAssemblyReference.cache
+/Users/matiasmartinez/Projects/tp2/tp2/obj/Debug/tp2.csproj.CoreCompileInputs.cache
+/Users/matiasmartinez/Projects/tp2/tp2/obj/Debug/tp2.exe
+/Users/matiasmartinez/Projects/tp2/tp2/obj/Debug/tp2.pdb
